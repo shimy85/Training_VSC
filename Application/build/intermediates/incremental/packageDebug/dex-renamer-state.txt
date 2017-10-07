@@ -1,0 +1,7 @@
+#Sun Oct 08 01:05:30 EET 2017
+base.0=C\:\\Users\\shimy\\AndroidStudioProjects\\UI\\MultiWindowPlayground\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_76c31e508f3f39a3ab724c9262529797a3f778e5
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\shimy\\AndroidStudioProjects\\UI\\MultiWindowPlayground\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fdbe8108a6ffe5e42e91560b39b9c15e0afdb70f\\classes.dex
+base.1=C\:\\Users\\shimy\\AndroidStudioProjects\\UI\\MultiWindowPlayground\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fdbe8108a6ffe5e42e91560b39b9c15e0afdb70f
+file.0=C\:\\Users\\shimy\\AndroidStudioProjects\\UI\\MultiWindowPlayground\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_76c31e508f3f39a3ab724c9262529797a3f778e5\\classes.dex

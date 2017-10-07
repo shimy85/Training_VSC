@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="27080964634931"
+    token="-2321663109160755597"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="1680" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="506" />
+    <task
+        name="verifier"
+        duration="76" />
+
+    <artifact
+        location="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\outputs\apk\Application-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="27080964634931"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\outputs\apk\Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

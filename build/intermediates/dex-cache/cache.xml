@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0-beta1_511a8cad942323574006c2eaa8829f0680cba548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0-beta1_8bddaa0c89ec2737da7d1c523a54e2109b8144e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0a2c2ee61c54f24828c215ee5aaef72b06dc81d4">
+        <dex dex="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_76c31e508f3f39a3ab724c9262529797a3f778e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a42a170f60e29ec21eeddae2ce96e0df04b9c7d9">
+        <dex dex="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fdbe8108a6ffe5e42e91560b39b9c15e0afdb70f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shimy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-beta1\support-annotations-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0-beta1_9f205d4db2999a4fb2120583f5d033316e242e10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\libs\internal_impl-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0-beta1_59d6b20a2810fc50aff17310cf0a5bf6f7942df5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0-beta1_b499a22f3dab9f4b0928cdc983dbcec6e2904316\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-beta1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="C:\Users\shimy\AndroidStudioProjects\UI\MultiWindowPlayground\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0-beta1_753a2f1288b9906cf10287b2293adca20dee62fd\classes.dex" />
+    </item>
+
+</items>
