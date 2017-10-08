@@ -38,6 +38,8 @@ public class MainActivity extends LoggingActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+        //This change will be added to repository
         View multiDisabledMessage = findViewById(R.id.warning_multiwindow_disabled);
         // Display an additional message if the app is not in multiwindow mode.
         if (!isInMultiWindowMode()) {
